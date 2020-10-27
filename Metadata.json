@@ -1,0 +1,20 @@
+{
+    "Author": "HasanG\u00fcral",
+    "ContentSize": 7874,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-generate-report-azure-vm-endpoint-list/master/Export-AzureVMEndPoints.ps1",
+    "DownloadCount": 1345,
+    "Id": "Powershell-Generate-Report-80685d42",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 583,
+    "RaterCount": 3,
+    "Rating": 3.7,
+    "ReleaseDate": "2015-2-27T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This function is used to check Azure Virtual Machine Endpoint list and status of the server.",
+    "Title": "Powershell Generate Report - Azure VM Endpoint List",
+    "UpdatedDate": "2015-2-27T00:00:00",
+    "Url": "https://github.com/azureautomation/powershell-generate-report-azure-vm-endpoint-list",
+    "UserTags": "Microsoft Azure, Powershell, Microsoft Azure Virtual Machines"
+}
